@@ -1,0 +1,6 @@
+location_id,temperature,rainfall,humidity,wind_speed,flood_label
+A1,35.5,120.0,60,10.5,1
+A2,38.2,85.5,55,12.3,1
+A3,36.0,95.0,65,9.8,0
+A4,33.4,70.2,50,11.1,0
+A5,39.1,130.3,70,13.0,1
